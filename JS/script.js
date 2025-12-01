@@ -258,4 +258,3 @@ window.addEventListener('pageshow', function(event) {
         updateNavigationOnScroll();
     }
 });
- 
